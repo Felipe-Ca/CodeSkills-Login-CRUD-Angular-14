@@ -1,0 +1,799 @@
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\appsettings.Development.json
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\appsettings.json
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.exe
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.deps.json
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.runtimeconfig.json
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.pdb
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.AssemblyReference.cache
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.AssemblyInfoInputs.cache
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.AssemblyInfo.cs
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.CoreCompileInputs.cache
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.MvcApplicationPartsAssemblyInfo.cs
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.MvcApplicationPartsAssemblyInfo.cache
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\staticwebassets.build.json
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\staticwebassets.development.json
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\scopedcss\bundle\Laboratory.styles.css
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.CopyComplete
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.dll
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\refint\Laboratory.dll
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.pdb
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.genruntimeconfig.cache
+D:\Felipe\Laboratory\Laboratory\obj\Debug\net6.0\ref\Laboratory.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Humanizer.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\MessagePack.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Http.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Common.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Felipe\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\appsettings.Development.json
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\appsettings.json
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.exe
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.deps.json
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.runtimeconfig.json
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.pdb
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Humanizer.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\MessagePack.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Http.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Common.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.AssemblyReference.cache
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.AssemblyInfoInputs.cache
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.AssemblyInfo.cs
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.CoreCompileInputs.cache
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.MvcApplicationPartsAssemblyInfo.cs
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.MvcApplicationPartsAssemblyInfo.cache
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\staticwebassets.build.json
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\staticwebassets.development.json
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\scopedcss\bundle\Laboratory.styles.css
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.CopyComplete
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\refint\Laboratory.dll
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.pdb
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.genruntimeconfig.cache
+D:\Felipe\CRUD Angular y .NET WEB API\Laboratory\Laboratory\obj\Debug\net6.0\ref\Laboratory.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\appsettings.Development.json
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\appsettings.json
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.exe
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.deps.json
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.runtimeconfig.json
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Laboratory.pdb
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Humanizer.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\MessagePack.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Http.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Common.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.AssemblyReference.cache
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.AssemblyInfoInputs.cache
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.AssemblyInfo.cs
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.CoreCompileInputs.cache
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.MvcApplicationPartsAssemblyInfo.cs
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.MvcApplicationPartsAssemblyInfo.cache
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\staticwebassets.build.json
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\staticwebassets.development.json
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\scopedcss\bundle\Laboratory.styles.css
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.csproj.CopyComplete
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\refint\Laboratory.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.pdb
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\Laboratory.genruntimeconfig.cache
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\obj\Debug\net6.0\ref\Laboratory.dll
+D:\Felipe\CodeSkills-CRUD-master\Laboratory\Laboratory\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,0 +1,33 @@
+<form>
+    <div class="mb-3">
+        <label for="documentTypeId" class="form-label ">Document type</label>
+        <input type="text"  class="form-control" name="documentTypeId" [(ngModel)]="documentTypeId" 
+*ngIf="user.id!=0" disabled>
+    <select class="form-control" name="documentTypeId" id="documentTypeId" [(ngModel)] 
+    ="documentTypeId" *ngIf="user.id==0">
+    <option *ngFor="let type of documentTypesList$|async" [value]="type.id">{{type.name}}</option>
+
+    </select>
+  
+  </div>
+
+    <div class="mb-3">
+        <label for="firsName" class="form-label">FirsName</label>
+        <input type="text" class="form-control" [(ngModel)]="firsName" name="firsName">
+    </div>
+    <div class="mb-3">
+        <label for="lastName" class="form-label">LastName</label>
+        <input type="text" class="form-control" [(ngModel)]="lastName" name="lastName">
+    </div>
+    <div class="mb-3">
+        <label for="document" class="form-label">Document</label>
+        <input type="number" class="form-control" [(ngModel)]="document" name="document">
+    </div>
+    <button (click)="addUser()" *ngIf="user.id==0" class="btn btn-primary">
+        Add
+      </button>
+    <button (click)="updateUser()" *ngIf="user.id!=0 "class="btn btn-primary">
+        Update
+    </button>
+</form>  
+

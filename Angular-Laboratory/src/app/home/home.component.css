@@ -1,0 +1,14 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #0e0f0e;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgb(48, 42, 99), rgb(227, 236, 239));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(48, 112, 151), rgb(169, 127, 181))
+    }
+
+    .fw-bold {
+        color: aliceblue;
+    }

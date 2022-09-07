@@ -1,0 +1,18 @@
+
+<section class="vh-100 gradient-custom">
+<h1 class="fw-bold mb-2 text-uppercase">Laboratory</h1>
+
+<br>
+<div *ngIf="isUserAuthenticated()" style="color: white;">
+  <h2>
+    ¡Welcome to the laboratory!  
+  </h2>
+</div>
+
+<br>
+<ul>
+  <li class="fw-bold mb-2 text-uppercase" ><a class="fw-bold mb-2 text-uppercase" routerLink="/user" >Users</a></li>
+  <li class="fw-bold mb-2 text-uppercase" *ngIf="!isUserAuthenticated()"><a class="fw-bold mb-2 text-uppercase" routerLink="/login">Login</a></li>
+  <li class="fw-bold mb-2 text-uppercase" *ngIf="isUserAuthenticated()"><a class="fw-bold mb-2 text-uppercase" (click)="logOut()">Logout</a></li>
+</ul>
+</section>
